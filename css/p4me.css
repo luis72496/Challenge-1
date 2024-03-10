@@ -1,0 +1,55 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-weight:bolder;
+    font-size:xx-large;
+    text-align: center;
+    text-decoration: underline;
+    background-color: black;
+
+
+
+    
+
+    
+}
+
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight:700px;
+    font-size:large;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px 10px;
+    border-color: rgb(255, 0, 0);background-color: black;
+    
+   
+  
+
+
+
+}
+
+
+.img{
+    align-content: center;
+}
+
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-weight:bolder;
+    font-size:x-large;
+    text-align:left;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-weight:700px;
+    font-size:large;
+    text-align:left;
+
+}
